@@ -1,0 +1,30 @@
+.body-container {
+	padding: 0 1rem;
+	float: left;
+	width: 100%;
+}
+
+.left {
+	width: 55%;
+	float: left;
+}
+
+.right {
+	width: 45%;
+	float: left;
+	padding-left: 2%;
+	padding-top: 32px;
+}
+
+#suggesstion-box {
+	display: none;
+}
+
+ul.city-country-list {
+	
+}
+
+ul.city-country-list li {
+	list-style-type: none;
+	cursor: pointer;
+}
