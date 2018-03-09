@@ -8,10 +8,10 @@ class Database {
 	* Define database credentials
 	*/
 	
-	private $host_name = "localhost";
-	private $database_name = "htbase_portal";
-	private $user_name = "root";
-	private $password = "";
+	private $host_name = "host_name";
+	private $database_name = "database_name";
+	private $user_name = "user_name";
+	private $password = "password";
 	
 	/**
 	* getConnection method invokes PDO (PHP Data Object to establish the connection)
