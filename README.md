@@ -1,6 +1,7 @@
 # Weather forecast implementation in PHP
 
-- Open Weather Map
+Technology used:
+- Open Weather Map API
 - PHP
 - Bootstrap
 - MySQL
